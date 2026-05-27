@@ -16,7 +16,7 @@
  */
 
 import Anthropic from "@anthropic-ai/sdk";
-const API_KEY = "sk-1fae8b198b114399b097b74f0114586e"
+const API_KEY = "xxx"
 import fs from 'fs';
 const MODEL_NAME = 'qwen-plus-2025-07-28'
 const client = new Anthropic({
